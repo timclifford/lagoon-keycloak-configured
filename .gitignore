@@ -1,0 +1,6 @@
+# Credentials
+.env
+
+# Other
+.DS_Store
+.idea
